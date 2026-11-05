@@ -1,0 +1,6 @@
+README.md
+**/*.o
+**/*.a
+build/
+apps/*/backend|balancer|loadgen
+.dockerignore
